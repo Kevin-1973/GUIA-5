@@ -20,7 +20,7 @@ public class GUIA5 {
 //       new frmMenu().setVisible(true);
 //       new frmPrincipal().setVisible(true);
  new frmLogi().setVisible(true);
- JOptionPane.showMessageDialog(null, "Kevin Humberto Cabeza Ruiz\nCristhian Alexis Garcia Asencio");
+ JOptionPane.showMessageDialog(null, "Kevin Humberto Cabeza Ruiz\nCristhian Alexis Garcia Asencio ");
     }
     
 }
